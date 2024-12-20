@@ -1,5 +1,5 @@
-# Login-Application
-# Registration and Login Module using SpringBoot
+# Login-Application :  Registration and Login Module using SpringBoot
+
 # Steps to be followed:
 # 1.Set up a Spring Boot project.
 # 2.Configure MYSQL database in application.properties.
